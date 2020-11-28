@@ -23,4 +23,4 @@ You can play the game for free at: www.ludoeducativo.com.br/pt/play/contra-coron
 
 MUSIC
 --------------------------------------------------
-You can find all the songs at my soundcloud account: https://soundcloud.com/wes_tiozzo
+You can listen to the songs at my soundcloud account: https://soundcloud.com/wes_tiozzo
