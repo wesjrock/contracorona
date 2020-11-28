@@ -21,4 +21,6 @@ THE GAME
 --------------------------------------------------
 You can play the game for free at: www.ludoeducativo.com.br/pt/play/contra-corona
 
-
+MUSIC
+--------------------------------------------------
+You can find all the songs at my soundcloud account: https://soundcloud.com/wes_tiozzo
