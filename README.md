@@ -9,7 +9,7 @@ I've worked on this project in the beginning of 2020 at Ludo Educativo with a te
 - Otávio Sumi:    Programmer
 - Luna Gallo:     Programmer
 - Renata Vinhaga: Programmer
-- Anayã Gimenez:  Artist and Designer
+- Anayã Ferreira:  Artist and Designer
 - Wesley Tiozzo:  Music and Sound Effects
 
 This project consists of 3 mini-games that aim to raise awareness about the corona virus, in the first game you learn how to wash your hands, the second is to show the importance of wearing masks and the third is about social distancing.
@@ -19,6 +19,6 @@ What I've tried to do was to make 4 different tracks, each one having its own st
 
 THE GAME
 --------------------------------------------------
-You can play the game for free at: www.ludoeducativo.com.br/pt/play/contra-corona
+You can play the game for free at: `www.ludoeducativo.com.br/pt/play/contra-corona`
 
 
