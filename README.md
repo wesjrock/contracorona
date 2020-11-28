@@ -1,6 +1,6 @@
 # Contra Corona
 
-![Screenshot 1](img/logopng)
+![Screenshot 1](img/logo.png)
 
 OVERVIEW
 --------------------------------------------------
