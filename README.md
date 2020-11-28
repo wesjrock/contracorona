@@ -19,6 +19,6 @@ What I've tried to do was to make 4 different tracks, each one having its own st
 
 THE GAME
 --------------------------------------------------
-You can play the game for free at: `www.ludoeducativo.com.br/pt/play/contra-corona`
+You can play the game for free at: www.ludoeducativo.com.br/pt/play/contra-corona
 
 
