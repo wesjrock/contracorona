@@ -5,7 +5,7 @@
 OVERVIEW
 --------------------------------------------------
 Contra Corona is an educational game that teaches you how to prevent yourself against COVID-19 virus, there's no code in this repository, this is just to show the project.
-I've worked on this project in the beginning of 2020 at Ludo Educativo with a team of 5 people. 
+I've worked on it in the beginning of 2020 at Ludo Educativo with a team of 5 people. 
 - Otávio Sumi:    Programmer
 - Luna Gallo:     Programmer
 - Renata Vinhaga: Programmer
